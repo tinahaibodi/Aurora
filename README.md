@@ -7,6 +7,5 @@ An iOS application that helps inform blind people of their surrounds with comput
 To view our promotional youtube video click here: https://www.youtube.com/watch?v=Y6De6pzl0Uc&t=75s
 
 ## Usability Testing and Feedback 
-To view our usability feedback and research click here: https://drive.google.com/file/d/1qtN9f1fRDrHw48REycEBQ2SVedB-jbHv/view?usp=sharing
-
+To view our usability feedback and research click: <a href="https://github.com/tinahaibodi/Aurora/blob/master/Aurora%20Research%20.pdf">here</a> 
 
