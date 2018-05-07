@@ -60,6 +60,17 @@ A literature review was conducted using the articles included in our research bi
 Screen Reader Use:
 While a majority of blind people who use computers use screen readers, a software that gives them the ability to have text on the screen read out to them, there is currently no financially accessible software or device to aid users in examinations or academic ecosystems. A study conducted in Australia found that while there is assistance available to learn to use screen readers, a majority of blind participants did not have any formal computer training and found using screen reader software technically confusing.
 
+Defining our users as partially or visually impaired students in secondary or post-secondary education aged
+approximately 15-29 in North America.
+
+Noting this, we concluded the following about visually impaired users in Canada:
+1. 1 in 5 Canadians are living with a disability including 400,000+ individuals who are blind and/or have low vision.
+
+Every year, more than 50,000 Canadians will lose their sight.
+2. In 2006, approximately 816, 250 (3.2%) Canadians aged 15 and older reported having some type of seeing
+limitation. 89% of these individuals aged 15-29 reported being enrolled in secondary or post-secondary and
+noting that the difficulty of their disability in both secondary and post-secondary education.
+
 ## Usability Testing  
 
 This research data was collected from a focus group of 8+ university students in the Kingston, Ontario area
@@ -99,14 +110,4 @@ create guidelines and onboarding assistance for university administrators that w
 application as a viable product for examinations and in-class assignments - reviewing it first through their
 internal IT services department.
 
-## User Research: 
-Defining our users as partially or visually impaired students in secondary or post-secondary education aged
-approximately 15-29 in North America.
 
-Noting this, we concluded the following about visually impaired users in Canada:
-1. 1 in 5 Canadians are living with a disability including 400,000+ individuals who are blind and/or have low vision.
-
-Every year, more than 50,000 Canadians will lose their sight.
-2. In 2006, approximately 816, 250 (3.2%) Canadians aged 15 and older reported having some type of seeing
-limitation. 89% of these individuals aged 15-29 reported being enrolled in secondary or post-secondary and
-noting that the difficulty of their disability in both secondary and post-secondary education.6
