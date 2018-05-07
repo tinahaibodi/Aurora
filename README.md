@@ -4,8 +4,7 @@ An iOS application that helps inform blind people of their surrounds with comput
 
 <a href="http://tinypic.com?ref=ixffh4" target="_blank"><img src="http://i64.tinypic.com/ixffh4.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-[![Watch the video](https://raw.github.com/tinahaibodi/Aurora/master/Aurora_Youtube_Video.png)](https://youtu.be/Y6De6pzl0Uc)
-
+[![Promotional Video](https://img.youtube.com/vi/Y6De6pzl0Uc.jpg)](http://www.youtube.com/watch?v=Y6De6pzl0Uc)
 
 ## Usability Testing and Feedback 
 To view our usability feedback and research click here: https://drive.google.com/file/d/1qtN9f1fRDrHw48REycEBQ2SVedB-jbHv/view?usp=sharing
