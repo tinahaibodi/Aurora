@@ -2,6 +2,7 @@ An iOS application that helps inform blind people of their surrounds with comput
 
 <a href="http://tinypic.com?ref=ixffh4" target="_blank"><img src="http://i64.tinypic.com/ixffh4.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/Y6De6pzl0Uc&t=75s//0.jpg)](https://www.youtube.com/watch?v=Y6De6pzl0Uc&t=75s)
+[Promotional Video](https://www.youtube.com/watch?v=Y6De6pzl0Uc&t=75s)
+
 
 
