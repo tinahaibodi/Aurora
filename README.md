@@ -10,12 +10,6 @@ To view full details about our product market strategy and cost breakdown about 
 
 To view full details about our usability feedback and research: <a href="https://github.com/tinahaibodi/Aurora/blob/master/Aurora%20Research%20.pdf">click here</a> 
 
-<div style="text-align:center"><a href="http://tinypic.com?ref=bf4ck1" target="_blank"><img src="http://i68.tinypic.com/bf4ck1.png" border="0" alt="Image and video hosting by TinyPic"></a></center>
-
-<a href="http://tinypic.com?ref=2i71li8" target="_blank"><img src="http://i67.tinypic.com/2i71li8.png" border="0" alt="Image and video hosting by TinyPic"></a>
-
-<a href="http://tinypic.com?ref=294t8j8" target="_blank"><img src="http://i68.tinypic.com/294t8j8.png" border="0" alt="Image and video hosting by TinyPic"></a>
-
 <center><a href="http://tinypic.com?ref=ixffh4" target="_blank"><img src="http://i64.tinypic.com/ixffh4.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center>
 
 
