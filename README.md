@@ -2,7 +2,7 @@
 
 An iOS application that helps inform blind people of their surrounds with computer vision and image processing analysis relayed through text to speech. Originally made at Hack the Valley 2017. 
 
-To view our promotional youtube video click here: https://www.youtube.com/watch?v=Y6De6pzl0Uc&t=75s
+To view our promotional youtube video: a href="https://www.youtube.com/watch?v=Y6De6pzl0Uc&t=75s">click here</a></div>
 
 To view full details about our product market strategy and cost breakdown about our application: <a href="https://github.com/tinahaibodi/Aurora/blob/master/Imagine%20Cup%202018_%20Aurora.pdf">click here</a></div>
 
