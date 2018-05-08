@@ -8,6 +8,10 @@ To view our promotional youtube video click here: https://www.youtube.com/watch?
 
 To view full details about our usability feedback and research: <a href="https://github.com/tinahaibodi/Aurora/blob/master/Aurora%20Research%20.pdf">click here</a> 
 
+<a href="http://tinypic.com?ref=294t8j8" target="_blank"><img src="http://i68.tinypic.com/294t8j8.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+To view full details about our application: <a href="https://github.com/tinahaibodi/Aurora/blob/master/Imagine%20Cup%202018_%20Aurora.pdf">click here</a> 
+
 ## The Concept 
 Empowering visually impaired students in the classroom.
 
