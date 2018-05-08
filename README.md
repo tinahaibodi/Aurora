@@ -2,7 +2,7 @@
 
 An iOS application that helps inform blind people of their surrounds with computer vision and image processing analysis relayed through text to speech. Originally made at Hack the Valley 2017. 
 
-<center><a href="http://tinypic.com?ref=bf4ck1" target="_blank"><img src="http://i68.tinypic.com/bf4ck1.png" border="0" alt="Image and video hosting by TinyPic"></a></center>
+<div style="text-align:center"><a href="http://tinypic.com?ref=bf4ck1" target="_blank"><img src="http://i68.tinypic.com/bf4ck1.png" border="0" alt="Image and video hosting by TinyPic"></a></center>
 
 <a href="http://tinypic.com?ref=2i71li8" target="_blank"><img src="http://i67.tinypic.com/2i71li8.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
@@ -14,7 +14,7 @@ To view full details about our usability feedback and research: <a href="https:/
 
 <a href="http://tinypic.com?ref=294t8j8" target="_blank"><img src="http://i68.tinypic.com/294t8j8.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-To view full details about our product market strategy and cost breakdown about our application: <a href="https://github.com/tinahaibodi/Aurora/blob/master/Imagine%20Cup%202018_%20Aurora.pdf">click here</a> 
+To view full details about our product market strategy and cost breakdown about our application: <a href="https://github.com/tinahaibodi/Aurora/blob/master/Imagine%20Cup%202018_%20Aurora.pdf">click here</a></div> 
 
 ## The Concept 
 Empowering visually impaired students in the classroom.
