@@ -8,8 +8,6 @@ To view full details about our product market strategy and cost breakdown about 
 
 To view full details about our usability feedback and research: <a href="https://github.com/tinahaibodi/Aurora/blob/master/Aurora%20Research%20.pdf">click here</a> 
 
-<iframe src="https://giphy.com/embed/QKjsOenu0t6u4ocBMc" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QKjsOenu0t6u4ocBMc">via GIPHY</a></p>
-
 <div style="text-align:center"><a href="http://tinypic.com?ref=bf4ck1" target="_blank"><img src="http://i68.tinypic.com/bf4ck1.png" border="0" alt="Image and video hosting by TinyPic"></a></center>
 
 <a href="http://tinypic.com?ref=2i71li8" target="_blank"><img src="http://i67.tinypic.com/2i71li8.png" border="0" alt="Image and video hosting by TinyPic"></a>
