@@ -4,6 +4,12 @@ An iOS application that helps inform blind people of their surrounds with comput
 
 ![Demo](https://raw.githubusercontent.com/tinahaibodi/Aurora/master/ezgif-1-13668e84d1.gif)
 
+<a href="http://tinypic.com?ref=294t8j8" target="_blank"><img src="http://i68.tinypic.com/294t8j8.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://tinypic.com?ref=r1y7vl" target="_blank"><img src="http://i65.tinypic.com/r1y7vl.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://tinypic.com?ref=2gwf1ja" target="_blank"><img src="http://i64.tinypic.com/2gwf1ja.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 To view our promotional youtube video: <a href="https://www.youtube.com/watch?v=Y6De6pzl0Uc&t=75s">click here</a></div>
 
 To view full details about our product market strategy and cost breakdown about our application: <a href="https://github.com/tinahaibodi/Aurora/blob/master/Imagine%20Cup%202018_%20Aurora.pdf">click here</a></div>
