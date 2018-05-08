@@ -32,6 +32,8 @@ Alongside this, our framing process and decision to create a mobile application 
 
 Noting this, we wished to empower visually impaired individuals through this discrepancy. Javier’s research led us to discover that in terms of design, “accessibility features are added as a new layer to the apps, acting as a patch that is placed over the initial design layer; iPhone and iPad devices use Voice Over feature to facilitate this accessibility.” Instead of making a mobile application that would require a re-design for visually or impaired users we held visually impaired users at the center of our product curation.
 
+<a href="http://tinypic.com?ref=24exr40" target="_blank"><img src="http://i67.tinypic.com/24exr40.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 ## User Research 
 
 Alongside, we established the following about visually impaired users internationally and their interactions
@@ -45,6 +47,8 @@ examination or dissertation setting that is financially accessible.
 3. People aged 15-64 with disability have lower participation (53%) and higher unemployment rates (9.4%) than
 people without disability (83% and 4.9% respectively)8
 4. This is despite the fact that blind people want to work to be productive and financially independent - 43.8% of graduates are seeking full time employment.
+
+<a href="http://tinypic.com?ref=j73f4w" target="_blank"><img src="http://i66.tinypic.com/j73f4w.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Primary research initiatives:
 1. Engaging with external consultants for WCAG compliance audits.
@@ -70,6 +74,8 @@ Every year, more than 50,000 Canadians will lose their sight.
 2. In 2006, approximately 816, 250 (3.2%) Canadians aged 15 and older reported having some type of seeing
 limitation. 89% of these individuals aged 15-29 reported being enrolled in secondary or post-secondary and
 noting that the difficulty of their disability in both secondary and post-secondary education.
+
+<a href="http://tinypic.com?ref=2nv85cw" target="_blank"><img src="http://i67.tinypic.com/2nv85cw.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 ## Usability Testing  
 
